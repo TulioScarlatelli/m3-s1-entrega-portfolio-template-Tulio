@@ -1,0 +1,12 @@
+.title {
+    color: var(--color-gray1);
+    font-family: IBM Plex Sans;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 125%;
+    letter-spacing: 0%;
+}
+
+.title.color-primary{
+    color: var(--color-primary);
+}
